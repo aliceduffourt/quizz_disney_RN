@@ -87,7 +87,7 @@ export class Themes_list_screen extends Component {
              resizeMode = "cover"
             >
               <View style={styles.headerContainer}>
-                <Text style = {styles.headerTitle}>Themes</Text>
+                <Text style = {styles.headerTitle}>Thèmes</Text>
               </View>
   
               <FlatList

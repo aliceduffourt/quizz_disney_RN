@@ -43,7 +43,7 @@ export  class Result_screen extends Component {
         >
 
           <View style={styles.headerContainer}>
-            <Text style = {styles.headerTitle}>Game Results</Text>
+            <Text style = {styles.headerTitle}>Resultats</Text>
           </View>
 
           <View style={styles.themeDataContainer}>
@@ -56,14 +56,14 @@ export  class Result_screen extends Component {
 
                 <View style={styles.themeResultsCorrectContainer}>
                   <Image style={styles.themeResultsCorrectImage}
-                  source={require('../../assets/images/arrow.png')}
+                  source={require('../../assets/images/right.png')}
                   />
                   <Text style = {styles.themeResultsCorrectCount}>{correctCount}</Text>
                 </View>
 
                 <View style={styles.themeResultsWrongContainer}>
                   <Image style={styles.themeResultsWrongImage}
-                  source={require('../../assets/images/reverse_arrow.png')}
+                  source={require('../../assets/images/wrong.png')}
                   />
                   <Text style = {styles.themeResultsWrongCount}>{wrongCount}</Text>
                 </View>

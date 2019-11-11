@@ -49,7 +49,7 @@ export class Game_brief_screen extends Component {
         >
 
           <View style={styles.headerContainer}>
-            <Text style = {styles.headerTitle}>Start the Game?</Text>
+            <Text style = {styles.headerTitle}>Commencer le jeu ?</Text>
           </View>
 
           <View style={styles.themeDataContainer}>

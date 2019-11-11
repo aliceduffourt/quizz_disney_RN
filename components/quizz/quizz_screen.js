@@ -17,8 +17,8 @@ import { Quizz_options } from './quizz_options';
 
 import Game_init from '../game/game_init';
 
-const imageCorrect = require('../../assets/images/arrow.png')
-const imageWrong = require('../../assets/images/reverse_arrow.png')
+const imageCorrect = require('../../assets/images/right.png')
+const imageWrong = require('../../assets/images/wrong.png')
 
 
 const soundCorrect = new Sound('sound_success.mp3', Sound.MAIN_BUNDLE, (error) => {
@@ -222,7 +222,7 @@ export class Quizz_screen extends Component {
         >
 
           <View style={styles.headerContainer}>
-            <Text style = {styles.headerTitle}>quizz {actualquizzNumber}/{totalquizzNumber}</Text>
+            <Text style = {styles.headerTitle}>Questions {actualquizzNumber}/{totalquizzNumber}</Text>
           </View>
 
           <View style={styles.quizzDataContainer}>
