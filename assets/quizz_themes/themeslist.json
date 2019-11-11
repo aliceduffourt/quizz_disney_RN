@@ -1,0 +1,548 @@
+{
+	"themes":[
+		{
+			"code":"1",
+			"name":"Musique",
+			"description":"Questions sur les musiques Disney",
+      		"color":"#ff817a",
+			"quizz":[
+				{
+					"code":"1",
+					"description":"A quel dessin animé appartient cette chanson « … elle ne dit rien elle se tait mais ton cœur brûle en secret »",
+					"options":[
+						{
+							"code":"1",
+							"description":"Mulan"
+						},
+						{
+							"code":"2",
+							"description":"Vaiana"
+						},
+						{
+							"code":"3",
+							"description":"Lilo & Stitch"
+						},
+						{
+							"code":"4",
+							"description":"La petite sirène"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Cette chanson provient de la petite sirène"
+				},
+				{
+					"code":"2",
+					"description":"Qui est a composé et interprété les chansons de Tarzan ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Brigitte VIRTUDES"
+						},
+						{
+							"code":"2",
+							"description":"Gérard RINALDI"
+						},
+						{
+							"code":"3",
+							"description":"Mark LESSER"
+						},
+						{
+							"code":"4",
+							"description":"Phil COLLINS"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Phil COLLINS est l'artiste ayant interprété les chansons issus de Tarzan"
+				},
+				{
+					"code":"3",
+					"description":"Qui est a composé et interprété les chansons de frères des ours ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Phil COLLINS"
+						},
+						{
+							"code":"2",
+							"description":"Mark LESSER"
+						},
+						{
+							"code":"3",
+							"description":"Jean-Loup HORWITZ"
+						},
+						{
+							"code":"4",
+							"description":"Jean-Claude DONDA"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"C'est bien Phil COLLINS qui a interprété et composé les chansons de Frères des ours"
+				},
+				{
+					"code":"4",
+					"description":"Quel personnage chante « à travers le bayou » ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Simba"
+						},
+						{
+							"code":"2",
+							"description":"Raymond"
+						},
+						{
+							"code":"3",
+							"description":"Roi Louie"
+						},
+						{
+							"code":"4",
+							"description":"Chat du Cheshire"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"C'est Raymond de la Princesse et la grenouille qui chante cette musique"
+				},
+				{
+					"code":"5",
+					"description":"Quel personnage chante « jamais je n’avouerais » ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Javotte"
+						},
+						{
+							"code":"2",
+							"description":"Esmeralda"
+						},
+						{
+							"code":"3",
+							"description":"Mégara"
+						},
+						{
+							"code":"4",
+							"description":"Tiana"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"C'est Mégara qui chante cette musique dans Hercule"
+                },
+                {
+					"code":"6",
+					"description":"Combien de chameau et chamelle à le prince Ali selon la chanson du même titre ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"1001"
+						},
+						{
+							"code":"2",
+							"description":"103"
+						},
+						{
+							"code":"3",
+							"description":"78"
+						},
+						{
+							"code":"4",
+							"description":"2"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Dans la chanson Prince Ali il est dit qu'il a 103 chameaux et chamelles, à vrai dire ceux sont des dromadaires "
+                },
+                {
+					"code":"7",
+					"description":"Complétez : « Salagadou, la menchikabou, la Bibidi Bobidi Bou….. » ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Mélangez tout ça, et vous aurez quoi ?  Bibidi Bobidi Bou"
+						},
+						{
+							"code":"2",
+							"description":"Bibidi Bou"
+						},
+						{
+							"code":"3",
+							"description":"Mélangez tout ça, et vous aurez quoi ?  Bibidi Bou"
+						},
+						{
+							"code":"4",
+							"description":"Mélangez tout ça, et vous aurez quoi ? Bibidi Bobadi bani Bou"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"C'était bien la réponse 1, c'est ce que la marraine la bonne fée dit dans Cendrillon"
+                },
+                {
+					"code":"8",
+					"description":"Selon la chanson « le Gospel pur 1 » dans Hercule, de quoi était peuplé le monde à son premier jour ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"De Colosses"
+						},
+						{
+							"code":"2",
+							"description":"d'Hommes purs"
+						},
+						{
+							"code":"3",
+							"description":"De Titans"
+						},
+						{
+							"code":"4",
+							"description":"De Dieux"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"C'était bien la réponse 3, c'est ce que la marraine la bonne fée dit dans Cendrillon"
+                },
+                {
+					"code":"9",
+					"description":"Selon la chanson « tu t’envoles » dans Peter Pan, qu’est ce qui est le secret du bonheur ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Rêver sa vie en couleur"
+						},
+						{
+							"code":"2",
+							"description":"Oublier ses soucis"
+						},
+						{
+							"code":"3",
+							"description":"Voler"
+						},
+						{
+							"code":"4",
+							"description":"S'amuser en étant accompagné"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Lors de leur essait de vol, Peter PAN dit : Michel, rêve ta vie en couleur c'est le secret du bonheur"
+                },
+                {
+                    "code":"10",
+					"description":"Selon la chanson « libérée, délivrée » dans La reine des neiges, qu’est ce qui se passe quand on prend de la hauteur ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Désormais plus rien ne t'arrête"
+						},
+						{
+							"code":"2",
+							"description":"Ton âme s'exprime en dessinant et sculptant dans la glace"
+						},
+						{
+							"code":"3",
+							"description":"Les étoiles te tendent les bras"
+						},
+						{
+							"code":"4",
+							"description":"Tout semble insignifiant"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"La bonne réponse est la 4"
+                },
+                {
+                    "code":"11",
+					"description":"Complétez les paroles : « C’est que printemps, été ou hiver ….. » ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Ont rêvé d'aventure"
+						},
+						{
+							"code":"2",
+							"description":"Bravant les flots"
+						},
+						{
+							"code":"3",
+							"description":"Elles changent toujours d’humeur et de couleur"
+						},
+						{
+							"code":"4",
+							"description":"J'attends, j'espère, qu'au détour de la rivière il sera là"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"La bonne réponse est la 3, issu de la chanson Au détour de la rivière dans Pocahontas"
+                }, 
+                {
+                    "code":"12",
+					"description":"Quel personnage chante « la patrouille des éléphants » dans le livre de la jungle ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Tabaqui"
+						},
+						{
+							"code":"2",
+							"description":"Le colonel Hathi"
+						},
+						{
+							"code":"3",
+							"description":"Kaa"
+						},
+						{
+							"code":"4",
+							"description":"Grand Loup Akela"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"C'est bien le colonel Hathi qui chante la patrouille des éléphants, d'ailleurs Hathi veut dire Elephant en hindi."
+                }
+			]
+		},
+		{
+			"code":"2",
+			"name":"Personnage",
+			"description":"Questions sur les personnages Disney",
+      		"color":"#7AF8FF",
+			"quizz":[
+				{
+					"code":"1",
+					"description":"Comment s'appelle le personnage qui court très vite dans les Indestructibles ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Violette"
+						},
+						{
+							"code":"2",
+							"description":"Jack-Jack"
+						},
+						{
+							"code":"3",
+							"description":"Flèche"
+						},
+						{
+							"code":"4",
+							"description":"Radar"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"La réponse est Flèche"
+                },
+                {
+					"code":"2",
+					"description":"Dans Peter Pan, comment s'appelle le moussaillon du capitaine Crochet ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Monsieur Mouche"
+						},
+						{
+							"code":"2",
+							"description":"Monsieur Guêpe"
+						},
+						{
+							"code":"3",
+							"description":"Monsieur Criquet"
+						},
+						{
+							"code":"4",
+							"description":"Monsieur Papillon"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"La réponse est bien Monsieur Mouche"
+                },
+                {
+					"code":"3",
+					"description":"Dans quel film apparaît le putois Fleur ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Rox et Rouky"
+						},
+						{
+							"code":"2",
+							"description":"Bernard et Bianca"
+						},
+						{
+							"code":"3",
+							"description":"Bambi"
+						},
+						{
+							"code":"4",
+							"description":"Pocahontas"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"La réponse est bien Bambi"
+                },
+                {
+					"code":"4",
+					"description":"Quelle princesse, très belle, rend jalouse sa belle-mère la Reine ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Raiponce"
+						},
+						{
+							"code":"2",
+							"description":"Cendrillon"
+						},
+						{
+							"code":"3",
+							"description":"La princesse et la grenouille"
+						},
+						{
+							"code":"4",
+							"description":"Blanche-Neige"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"La réponse est bien Bambi"
+                },
+                {
+					"code":"5",
+					"description":"Quels sont les prénoms des Trois Petits Cochons ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Nif-Naf, Nof-Nof, Nuf-Nuf"
+						},
+						{
+							"code":"2",
+							"description":"Nif-Nif, Naf-Naf et Nuf-Nuf"
+						},
+						{
+							"code":"3",
+							"description":"Naf-Naf, Nof-Nof et Nif-Nif"
+						},
+						{
+							"code":"4",
+							"description":"Nouf-Nouf, Naf-Naf et Nif-Nif"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"La réponse est bien Nouf-Nouf, Naf-Naf et Nif-Nif"
+                },
+                {
+					"code":"6",
+					"description":"Bagheera, qui élève le petit Mowgli dans la jungle, est",
+					"options":[
+						{
+							"code":"1",
+							"description":"Une panthère"
+						},
+						{
+							"code":"2",
+							"description":"Un guépard"
+						},
+						{
+							"code":"3",
+							"description":"Un louve"
+						},
+						{
+							"code":"4",
+							"description":"Un tigre"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"La réponse est une panthère noire"
+                },
+                {
+					"code":"7",
+					"description":"Quel personnage représente la bonne conscience de Pinocchio ?",
+					"options":[
+						{
+							"code":"1",
+							"description":"La fée bleue"
+						},
+						{
+							"code":"2",
+							"description":"La fée Clochette"
+						},
+						{
+							"code":"3",
+							"description":"Le lièvre de Mars"
+						},
+						{
+							"code":"4",
+							"description":"Jiminy Cricket"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"La réponse est Jiminy Cricket"
+                },
+                {
+					"code":"8",
+					"description":"Quel est le point commun entre Roquefort, Timothée et Olivia? ",
+					"options":[
+						{
+							"code":"1",
+							"description":"Ceux sont des renards"
+						},
+						{
+							"code":"2",
+							"description":"Font apparition dans Lilo et Stitch"
+						},
+						{
+							"code":"3",
+							"description":"Font apparition dans Chicken little"
+						},
+						{
+							"code":"4",
+							"description":"Ce sont des souris"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Ce sont bien des souris"
+                },
+                {
+					"code":"9",
+					"description":"Dans les 101 dalmatiens comment s'appelle la femme de Roger et maitresse des chiens? ",
+					"options":[
+						{
+							"code":"1",
+							"description":"Perdita"
+						},
+						{
+							"code":"2",
+							"description": "Anita"
+						},
+						{
+							"code":"3",
+							"description":"Falbala"
+						},
+						{
+							"code":"4",
+							"description":"Belle"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Le prénom de la maitresse des chiens s'appelle Anita"
+                },
+                {
+					"code":"10",
+					"description":"Quel nom n'est pas  un nom de chat dans Les Aristochats ",
+					"options":[
+						{
+							"code":"1",
+							"description":"Philibert"
+						},
+						{
+							"code":"2",
+							"description": "Toulouse"
+						},
+						{
+							"code":"3",
+							"description":"Duchesse"
+						},
+						{
+							"code":"4",
+							"description":"Berlioz"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Philibert est le prénom du cheval de Belle dans La Belle et la Bête"
+                }        
+			]
+		}
+	]
+}
